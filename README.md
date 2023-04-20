@@ -1,2 +1,2 @@
-# test-git
+# mi primer README
 Pruebas comandos git
